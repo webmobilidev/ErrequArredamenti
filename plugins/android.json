@@ -1,0 +1,37 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-custom-config": {
+            "PACKAGE_NAME": "com.designbest.errequarredamenti"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.designbest.errequarredamenti"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.designbest.errequarredamenti"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.designbest.errequarredamenti"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.designbest.errequarredamenti"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.designbest.errequarredamenti"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.designbest.errequarredamenti"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "xxxxx",
+            "PACKAGE_NAME": "com.designbest.errequarredamenti"
+        }
+    },
+    "dependent_plugins": {}
+}
